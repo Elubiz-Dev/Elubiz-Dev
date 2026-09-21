@@ -18,11 +18,4 @@ Desarrollador enfocado en aplicaciones móviles, desarrollo web y bases de datos
 
 ---
 
-### 📊 Estadísticas
 
-<p ### 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elubiz-Dev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Elubiz-Dev&layout=compact&theme=dark)
-</p>
